@@ -69,14 +69,6 @@ This social media application is designed to provide a robust platform for user 
    pip install -r requirements.txt
    ```
 
-4. **Configure Environment Variables**
-   Create a `.env` file in the project root:
-   ```
-   SECRET_KEY=your-secret-key
-   JWT_SECRET_KEY=your-jwt-secret-key
-   SQLALCHEMY_DATABASE_URI=sqlite:///My_Database_user_22.db
-   ```
-
 6. **Run the Application**
    ```bash
    python app.py
