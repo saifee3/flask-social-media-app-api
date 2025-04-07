@@ -1,4 +1,5 @@
 # 🛋️ Social Media Application
+![Image](https://github.com/user-attachments/assets/b9d2baed-49f2-4feb-a385-2fc01c298b28)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![Flask](https://img.shields.io/badge/Flask-2.0.0-green?logo=flask)
