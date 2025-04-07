@@ -52,8 +52,8 @@ This social media application is designed to provide a robust platform for user 
 - **CORS Support**: 🌐 Flask-CORS
 - **API Documentation**: 📘 Postman
 
-##Entity Relational Diagram
-<img src="" alt="Custom Icon" width="1050" height="300">
+## Entity Relational Diagram
+<img src="https://github.com/user-attachments/assets/fc30ea2d-5977-49e9-8f37-5e8efb5e42ea" alt="Custom Icon" width="500" height="800">
 
 ## Installation 💻
 
