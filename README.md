@@ -41,7 +41,7 @@ This social media application is designed to provide a robust platform for user 
 - **API Documentation**: 📘 Postman
 
 ## Entity Relational Diagram
-<img src="https://github.com/user-attachments/assets/fc30ea2d-5977-49e9-8f37-5e8efb5e42ea" alt="Custom Icon" width="400" height="800">
+<div align="center">   <img src="https://github.com/user-attachments/assets/fc30ea2d-5977-49e9-8f37-5e8efb5e42ea" alt="Custom Icon" width="400" height="700">  </div>
 
 ## Installation 💻
 
@@ -199,4 +199,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Python Development Community**
 - **Flask Development Team** - [@pallets](https://github.com/pallets/flask)
 - **SQLite Development Team** - [sqlite.org](https://www.sqlite.org)
-
+- Banner Image by **Real Python** on https://realpython.com/flask-connexion-rest-api/
