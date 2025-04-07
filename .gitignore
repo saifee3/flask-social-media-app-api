@@ -1,0 +1,40 @@
+# Virtual environments
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py[co]
+
+# Database files
+*.db
+*.sqlite
+
+# Instance folder
+instance/
+
+# Environment files
+.env
+.env.backup
+.flaskenv
+
+# IDE files
+.idea/
+*.idea/
+*.iml
+
+# Build files
+build/
+dist/
+*.egg-info/
+*.egg
+*.whl
+
+# Cache and temporary files
+*.tmp
+*.temp
+*.log
+
+# Other
+.DS_Store
+Thumbs.db
