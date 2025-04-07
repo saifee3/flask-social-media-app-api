@@ -1,4 +1,4 @@
-# 🛋️ Social Media Application
+# 🛋️ Social Media App API with Flask 
 <img src="https://github.com/user-attachments/assets/b9d2baed-49f2-4feb-a385-2fc01c298b28" alt="Custom Icon" width="1050" height="300">
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
@@ -51,6 +51,9 @@ This social media application is designed to provide a robust platform for user 
 - **Password Hashing**: 🗑️ Flask-Bcrypt
 - **CORS Support**: 🌐 Flask-CORS
 - **API Documentation**: 📘 Postman
+
+##Entity Relational Diagram
+<img src="" alt="Custom Icon" width="1050" height="300">
 
 ## Installation 💻
 
