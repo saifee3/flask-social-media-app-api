@@ -1,13 +1,9 @@
 # 🛋️ Social Media Application
-![Image](https://github.com/user-attachments/assets/b9d2baed-49f2-4feb-a385-2fc01c298b28)
+<img src="https://github.com/user-attachments/assets/b9d2baed-49f2-4feb-a385-2fc01c298b28" alt="Custom Icon" width="1050" height="300">
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![Flask](https://img.shields.io/badge/Flask-2.0.0-green?logo=flask)
 ![License](https://img.shields.io/badge/License-MIT-red)
-
-A comprehensive social media platform built with Flask, featuring user authentication, post creation, commenting, and liking functionality. Designed for scalability and maintainability.
-
----
 
 ## Table of Contents
 - [Project Overview](#project-overview) 🌟
@@ -31,32 +27,21 @@ This social media application is designed to provide a robust platform for user 
   - 📝 Registration with email verification
   - 🔑 Login with JWT authentication
   - 📋 Profile management (update personal information)
-  - 🔄 Password reset functionality
-  - ⚡ Soft delete for user accounts
 
 - **Post Management**:
   - 📝 Create, read, update, and delete posts
-  - 🖼️ Add media (images, videos) to posts
-  - 🎨 Rich text formatting support
-  - 📅 Post scheduling
-  - 📥 Draft saving
 
 - **Commenting System**:
   - 📌 Add, edit, and delete comments
-  - 🔄 Nested comments
-  - 🧵 Comment threading
-  - 🔔 Real-time comment notifications
 
 - **Like System**:
-  - ❤️ Like/unlike posts and comments
+  - ❤️ Like/unlike posts
   - 📊 View who liked a post
   - 📈 Like analytics
 
 - **Security**:
   - 🔐 JWT-based authentication
   - 🗝️ Password hashing with Bcrypt
-  - ⏱️ Rate limiting
-  - 🛡️ CSRF protection
 
 ## Technologies ⚙️
 
@@ -64,7 +49,6 @@ This social media application is designed to provide a robust platform for user 
 - **Database**: 🗄️ SQLite (easily switchable to PostgreSQL or MySQL)
 - **Authentication**: 🔑 Flask-JWT-Extended
 - **Password Hashing**: 🗑️ Flask-Bcrypt
-- **Environment Management**: 🌲 python-dotenv
 - **CORS Support**: 🌐 Flask-CORS
 - **API Documentation**: 📘 Postman
 
@@ -94,12 +78,7 @@ This social media application is designed to provide a robust platform for user 
    pip install -r requirements.txt
    ```
 
-4. **Initialize the Database**
-   ```bash
-   flask init-db
-   ```
-
-5. **Configure Environment Variables**
+4. **Configure Environment Variables**
    Create a `.env` file in the project root:
    ```
    SECRET_KEY=your-secret-key
@@ -209,7 +188,6 @@ social_media_app/
 ├── requirements.txt    # Project dependencies
 ├── README.md           # This documentation file
 ├── LICENSE             # Project license
-├── App_EntityRelational_Diagram.png             # App ERD
 │
 └── routes/             # Route definitions
     ├── __init__.py
@@ -220,15 +198,6 @@ social_media_app/
 
 ```
 
-## Contributing 🤝
-
-Contributions are welcome! Please follow these guidelines:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/your-feature`)
-3. Commit your changes (`git commit -m 'Add your feature'`)
-4. Push to the branch (`git push origin feature/your-feature`)
-5. Open a Pull Request
 
 ## License 📜
 
