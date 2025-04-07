@@ -5,18 +5,6 @@
 ![Flask](https://img.shields.io/badge/Flask-2.0.0-green?logo=flask)
 ![License](https://img.shields.io/badge/License-MIT-red)
 
-## Table of Contents
-- [Project Overview](#project-overview) 🌟
-- [Features](#features) ✨
-- [Technologies](#technologies) ⚙️
-- [Installation](#installation) 💻
-- [Usage](#usage) 🚀
-- [API Documentation](#api-documentation) 📘
-- [Folder Structure](#folder-structure) 📂
-- [Contributing](#contributing) 🤝
-- [License](#license) 📜
-- [Credits](#credits) 🙏
-
 ## Project Overview 🌟
 
 This social media application is designed to provide a robust platform for user interaction and content sharing. It implements modern web development practices and follows RESTful principles for its API design. The application is built with security in mind, using JWT authentication and password hashing to protect user data.
@@ -53,7 +41,7 @@ This social media application is designed to provide a robust platform for user 
 - **API Documentation**: 📘 Postman
 
 ## Entity Relational Diagram
-<img src="https://github.com/user-attachments/assets/fc30ea2d-5977-49e9-8f37-5e8efb5e42ea" alt="Custom Icon" width="500" height="800">
+<img src="https://github.com/user-attachments/assets/fc30ea2d-5977-49e9-8f37-5e8efb5e42ea" alt="Custom Icon" width="400" height="800">
 
 ## Installation 💻
 
